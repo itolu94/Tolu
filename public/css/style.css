@@ -28,3 +28,7 @@
 .bttn-slant.bttn-primary:after{
     background: dimgrey;
 }
+
+.projectTech  p{
+    margin-bottom: 5px !important;
+}
